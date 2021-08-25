@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "Spring.data",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.data'"
+  },
+  {
+    "name": "spring.datasouece.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasouece.driver-class-name'"
+  },
+  {
+    "name": "spring.jap.prpperties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jap.prpperties.hibernate.dialect'"
+  }
+]}
