@@ -22,7 +22,7 @@ import ch.qos.logback.core.Context;
 @RequestMapping("/Student")
 //@Produces(MediaType.APPLICATION_XML_TYPE)
 public class StudentController {
-	@StudentRepo context;
+	StudentRepo context;
 	@Autowired
 	@GetMapping
 	
